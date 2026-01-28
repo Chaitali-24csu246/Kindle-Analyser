@@ -10,8 +10,12 @@ venv/
 # Streamlit
 .streamlit/
 
-# Data files (important)
+# Ignore all CSVs by default
 *.csv
+
+# But keep the sample dataset
+!data/kindle_data-v2.csv
+
 
 # OS files
 .DS_Store
