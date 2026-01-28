@@ -43,7 +43,7 @@ Export cleaned dataset as CSV
 
 Simple Q&A interface for dataset queries(placeholder)
 
-
+. Dataset link : https://www.kaggle.com/datasets/asaniczka/amazon-kindle-books-dataset-2023-130k-books?resource=download
 
 . Tech Stack
 
