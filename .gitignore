@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+.env/
+
+# Streamlit
+.streamlit/
+
+# Data files (important)
+*.csv
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter (if used later)
+.ipynb_checkpoints/
