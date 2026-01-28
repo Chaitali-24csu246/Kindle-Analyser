@@ -6,7 +6,7 @@ An interactive Streamlit-based data analysis app to explore Kindle e-book datase
 It helps analyze authors, ratings, reviews, prices, Kindle Unlimited trends, and more — all through a clean web UI.
 Built using Python, Pandas, Seaborn, Matplotlib, and Streamlit.
 
-Features
+. Features
 
 
 Upload any Kindle CSV dataset, or one provided in repo
@@ -45,7 +45,7 @@ Simple Q&A interface for dataset queries(placeholder)
 
 
 
-Tech Stack
+. Tech Stack
 
 
 Python 3.9+
@@ -59,7 +59,9 @@ Pandas & NumPy
 
 Matplotlib & Seaborn
 
-How to Run This Project Locally
+.How to Run This Project Locally
+
+
 1️. Clone the repository
 git clone https://github.com/Chaitali-24csu246/Kindle-Analyser.git
 cd Kindle-Analyser
@@ -90,7 +92,10 @@ If not, visit:
 http://localhost:8501
 
 
-How to Use
+Note: press ctrl+c to exit terminal
+
+
+. How to Use
 Note(Some features are just placeholders)
 
 Upload your Kindle CSV dataset
